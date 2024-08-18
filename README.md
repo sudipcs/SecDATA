@@ -1,3 +1,6 @@
+**Cite:** Mondal, S., Bhattacharya, N., Das, T., Ghosh, Z.,& Khatua, S. (2023). SecDATA: Secure Data Access and de novo
+Transcript Assembly protocol-To meet the challenge of reliable NGS data analysis. bioRxiv, 2023-10. https://doi.org/10.1101/2023.10.26.564229
+
 ### Prerequisites :
 
 The required dependencies for **SecDATA** are Processor - Intel® Xeon(R) Silver 4215 CPU @ 2.50GHz × 16
